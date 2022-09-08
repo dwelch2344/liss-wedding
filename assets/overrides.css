@@ -1,0 +1,14 @@
+body.overridden {
+  background: rgba(189, 148, 90, 0.75);
+}
+body.overridden #oliven-aside {
+  margin: 0 auto 0 auto;
+  position: relative;
+  min-height: 100vh;
+  min-width: 300px;
+}
+body.overridden h2, 
+body.overridden h3 {
+  color: #888;
+  font-family: 'Nunito Sans', sans-serif;
+}
