@@ -12,3 +12,8 @@ body.overridden h3 {
   color: #888;
   font-family: 'Nunito Sans', sans-serif;
 }
+
+body.overridden p a {
+  color: cornflowerblue;
+  text-decoration: underline;
+}
